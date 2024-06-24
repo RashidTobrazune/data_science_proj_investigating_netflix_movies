@@ -1,5 +1,5 @@
 # data_science_proj_investigating_netflix_movies
-Investigating the Netflix dataset involved analyzing viewing patterns, genres, user ratings, and trends to uncover insights and audience preferences.
+Investigating the Netflix dataset involved analyzing viewing patterns, finding short action movies over a period, frequent movie duration, and trends to uncover insights and audience preferences.
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
 Given the large number of movies and series available on the platform, it is a perfect opportunity to flex your exploratory data analysis skills and dive into the entertainment industry.
