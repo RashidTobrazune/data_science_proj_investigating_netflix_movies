@@ -1,3 +1,6 @@
+![redpopcorn](https://github.com/RashidTobrazune/data_science_proj_investigating_netflix_movies/assets/150378293/221002ac-8599-4097-81cf-5cb48e915848)
+
+
 # data_science_proj_investigating_netflix_movies
 Investigating the Netflix dataset involved analyzing viewing patterns, finding short action movies over a period, frequent movie duration, and trends to uncover insights and audience preferences.
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
